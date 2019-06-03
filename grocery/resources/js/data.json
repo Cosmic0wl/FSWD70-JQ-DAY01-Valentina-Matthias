@@ -1,0 +1,64 @@
+
+grocery = [{
+	"img": "resources/img/apple.jpg",
+
+	"name" : "Apple",
+
+	"price": "2.99",
+
+	"status": 1
+
+},{
+	"img": "resources/img/bread.jpg",
+
+	"name" : "Bread",
+
+	"price": "3.99",
+
+	"status": 1
+
+},{
+	"img": "resources/img/cheese.jpg",
+
+	"name" : "Cheese",
+
+	"price": "4.56",
+
+	"status": 1
+
+},{
+	"img": "resources/img/coffee.jpg",
+
+	"name" : "Coffee",
+
+	"price": "6.99",
+
+	"status": 1
+
+},{
+	"img": "resources/img/lemon.jpg",
+
+	"name" : "Lemon",
+
+	"price": "1.99",
+
+	"status": 1
+
+},{
+	"img": "resources/img/milk.jpg",
+
+	"name" : "Milk",
+
+	"price": "2.49",
+
+	"status": 1
+
+},{
+	"img": "resources/img/orangejuice.jpg",
+
+	"name" : "Orange Juice",
+
+	"price": "4.49",
+
+	"status": 1
+}];
