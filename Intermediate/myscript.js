@@ -7,7 +7,7 @@ $("form").submit(function(e) {
 
 });
 $(document).ready(function(){
-	//$("form").remove();
+	$("form").remove();
 	var newDiv = $('<div class="box">New Div</div>' + 
 		'<div class="box">New Div</div>' + 
 		'<div class="box">New Div</div>' + 
