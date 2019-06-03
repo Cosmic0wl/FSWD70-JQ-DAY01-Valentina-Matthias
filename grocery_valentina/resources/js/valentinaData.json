@@ -1,0 +1,36 @@
+products = [{
+	"name" : "Apple",
+	"img" : "../img/apple.jpg",
+	"price": 0.99,
+	"status" : 1
+},{
+	"name" : "Bread",
+	"img" : "../img/bread.jpg",
+	"price": 1.20,
+	"status" : 1
+},{
+	"name" : "Cheese",
+	"img" : "../img/cheese.jpg",
+	"price": 3.25,
+	"status" : 1
+},{
+	"name" : "Coffee",
+	"img" : "../img/coffee.jpg",
+	"price": 0.99,
+	"status" : 1
+},{
+	"name" : "Lemon",
+	"img" : "../img/lemon.jpg",
+	"price": 0.99,
+	"status" : 1
+},{
+	"name" : "Milk",
+	"img" : "../img/milk.jpg",
+	"price": 1.05,
+	"status" : 1
+},{
+	"name" : "Orange Juice",
+	"img" : "../img/orangejuice.jpg",
+	"price": 2.05,
+	"status" : 1
+}];

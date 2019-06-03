@@ -1,0 +1,43 @@
+var products = [
+{
+    "name": "Apple",
+    "img": "resources/img/apple.jpg",
+    "price": 0.99,
+    "status": 1
+},
+{
+    "name": "Bread",
+    "img": "resources/img/bread.jpg",
+    "price": 1.25,
+    "status": 1
+},
+{
+    "name": "Cheese",
+    "img": "resources/img/cheese.jpg",
+    "price": 3.25,
+    "status": 1
+},
+{
+    "name": "Coffee",
+    "img": "resources/img/coffee.jpg",
+    "price": 0.99,
+    "status": 1
+},
+{
+    "name": "Lemon",
+    "img": "resources/img/lemon.jpg",
+    "price": 0.99,
+    "status": 1
+},
+{
+    "name": "Milk",
+    "img": "resources/img/milk.jpg",
+    "price": 1.05,
+    "status": 1
+},
+{
+    "name": "Orange Juice",
+    "img": "resources/img/orangejuice.jpg",
+    "price": 2.05,
+    "status": 1
+}];
